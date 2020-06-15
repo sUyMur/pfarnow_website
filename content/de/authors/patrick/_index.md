@@ -53,13 +53,13 @@ social:
 - icon: envelope
   icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-  link: 'mailto:contact@patrickfarnow.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:info@patrickfarnow.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/pfarnow
 - icon: github
   icon_pack: fab
-  link: https://github.com/pfarnow
+  link: https://github.com/suymur
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/patrick-farnow/
