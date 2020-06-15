@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Patrick Farnow</title>
-    <link>https://patrickfarnow.com/</link>
-    <description>Recent content on Patrick Farnow</description>
+    <title>academia on Patrick Farnow</title>
+    <link>https://patrickfarnow.com/tags/academia/</link>
+    <description>Recent content in academia on Patrick Farnow</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://patrickfarnow.com/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://patrickfarnow.com/tags/academia/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Courses</title>
-      <link>https://patrickfarnow.com/courses/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://patrickfarnow.com/courses/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>academia: the website builder for Hugo</title>
@@ -199,24 +190,6 @@
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academia/blob/master/LICENSE.md&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://patrickfarnow.com/publication/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://patrickfarnow.com/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://patrickfarnow.com/talk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://patrickfarnow.com/talk/</guid>
-      <description></description>
     </item>
     
   </channel>
