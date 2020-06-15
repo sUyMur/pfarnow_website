@@ -33,13 +33,13 @@ hero_media = "PatrickFarnow_Square.JPG"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[btn]
-  url = "/authors/patrick"
-  label = "Know more"
+#[btn]
+#  url = "/authors/patrick"
+#  label = "Know more"
 
-[btn_alt]
-  url = "#contact"
-  label = "Contact me"
+#[btn_alt]
+#  url = "#contact"
+#  label = "Contact me"
 
 +++
 ## My name is **Patrick Farnow** and I'm a **Consultant** specializing in **all things tech** and a bit of **SAP FI/CO**
