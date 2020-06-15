@@ -1,0 +1,27 @@
+
+body {
+  font-size: 16px;
+}
+
+a {
+  color: #3f51b5
+  }
+
+a:hover {
+  color: #3f51b5 !important
+}
+
+.navbar-light .navbar-nav > li.nav-item > a.active, .navbar-light .navbar-nav > li.nav-item > a.active:focus, .navbar-light .navbar-nav > li.nav-item > a.active:hover {
+  color: #3f51b5 !important
+}
+
+.navbar-light .navbar-nav > .nav-item > .nav-link:hover {
+  color: #3f51b5 !important
+}
+
+.section-heading h1::after {
+  background-color: #3f51b5
+}
+.section-heading h1::before {
+  background-color: #3f51b5
+}
