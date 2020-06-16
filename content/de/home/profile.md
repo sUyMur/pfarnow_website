@@ -44,4 +44,4 @@ hero_media = "PatrickFarnow_Square.JPG"
 +++
 ## Ich heiße **Patrick Farnow** und bin **Berater**, interessiert an **Technologie** und arbeite überwiegend im **SAP FI/CO** Bereich.
 
-Wenn ich nicht gerade an SAP Prozessen schraube oder am ABAP debuggen bin, dann kümmere ich mich hauptsächlich darum Cloud-Services durch selbstgehostete, Open-Source Tools zu ersetzen. 
+Wenn ich nicht gerade an SAP Prozessen schraube oder am ABAP debuggen bin, dann kümmere ich mich hauptsächlich darum Cloud-Services durch selbstgehostete, Open-Source Tools zu ersetzen.

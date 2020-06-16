@@ -6,11 +6,12 @@ authors:
 - patrick
 tags:
 - Homeserver
+- post
 categories: ["Docker", "VPN"]
 date: "2020-06-15T00:00:00Z"
 lastmod: "2020-06-15T00:00:00Z"
 featured: true
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
