@@ -25,3 +25,7 @@ a:hover {
 .section-heading h1::before {
   background-color: #3f51b5
 }
+
+.wg-hero.dark .btn {
+  color: #3f51b5 !important
+}
