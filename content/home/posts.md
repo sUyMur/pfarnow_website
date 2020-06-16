@@ -8,7 +8,7 @@ active = false  # Activate this widget? true/false
 weight = 200  # Order that this section will appear.
 
 title = "Recent Posts"
-subtitle = "MY FANS DON'T FEEL LIKE I HOLD ANYTHING BACK FROM THEM"
+#subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -25,7 +25,7 @@ subtitle = "MY FANS DON'T FEEL LIKE I HOLD ANYTHING BACK FROM THEM"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "post"
     category = ""
     publication_type = ""
     exclude_featured = false

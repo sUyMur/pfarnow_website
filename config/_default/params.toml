@@ -12,10 +12,10 @@ day_night = true
 font = "classic"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Patrick Farnow"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "PatrickFarnow_Square.JPG"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = "pfarnow"
@@ -44,13 +44,14 @@ privacy_pack = false
 date_format = "Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
 time_format = "3:04 PM"
-
+  
 ############################
 ## Contact Widget setup   ##
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "info@patrickfarnow.com"
+
 #phone = "888 888 88 88"
 #address = "Building 1 Room 1, Stanford University, California, 90210, USA"
 
@@ -59,14 +60,15 @@ email = "info@patrickfarnow.com"
 #                  Wednesday 09:00 to 10:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-#appointment_url = "https://calendly.com"
+appointment_url = "patrickfarnow.com/de/impressum/"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
 #  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   {icon = "linkedin", icon_pack = "fab", name = "profile", link = "https://linkedin.com/in/patrick-farnow"},
-#  {icon = "github", icon_pack = "fab", name = "DM Me", link = "https://linkedin.com/in/patrickfarnow"},
+  {icon = "github", icon_pack = "fab", name = "DM Me", link = "https://github.com/suymur"},
+  {name = "Impressum", link = "https://patrickfarnow.com/impressum"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -101,7 +103,8 @@ contact_links = [
 # Load CSS and JS plugins
 #   E.g. To load `/assets/css/custom.css`, set `plugins_css = ["custom"]`.
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
-plugins_css = []
+#plugins_css = []
+plugins_css = ["custom"]
 plugins_js  = []
 
 ############################
