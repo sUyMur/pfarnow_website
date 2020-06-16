@@ -30,7 +30,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "View on Goodreads"
-  cta_url = "https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow?from_search=true&from_srp=true&qid=kdsfJWiClX&rank=1"
+  cta_url = "https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow"
   cta_icon_pack = "fas"
   cta_icon = "book"
 
