@@ -15,6 +15,9 @@ height = ""
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
+#########
+# Item 1
+#########
 [[item]]
   title = "currently reading:"
   content = "Thinking, Fast and Slow"
@@ -34,9 +37,12 @@ height = ""
   cta_icon_pack = "fas"
   cta_icon = "book"
 
+#########
+# ITEM 2
+#########
 [[item]]
   title = "currently working on:"
-  content = "cleaning up docker config files, to publish system docs."
+  content = "cleaning up docker config files."
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
