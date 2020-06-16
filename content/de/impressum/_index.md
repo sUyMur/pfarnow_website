@@ -10,6 +10,8 @@ Angaben gemäß § 5 TMG
 
 
 Patrick Farnow  
-Fuhlsbüttler Straße 310
+Fuhlsbüttler Straße 310  
+22307 Hamburg  
+Deutschland
 
 ---
