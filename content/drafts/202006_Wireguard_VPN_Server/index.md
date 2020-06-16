@@ -1,15 +1,17 @@
 ---
-title: 'Wireguard: Der schnelle VPN Server'
-subtitle: 'Wie man einen Heim-VPN Server aufbaut und nutzt.'
-summary: Wie man einen Heim-VPN Server aufbaut und nutzt.
+title: ''
+subtitle: ''
+summary: ''
+
 authors:
 - patrick
 tags:
-- Homeserver
-- post
-categories: ["Docker", "VPN"]
+-
+categories: ["", ""]
+
 date: "2020-06-15T00:00:00Z"
 lastmod: "2020-06-15T00:00:00Z"
+
 featured: true
 draft: true
 
@@ -26,7 +28,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["Homeserver"]
+projects: [""]
 
 # Set captions for image gallery.
 #gallery_item:
@@ -35,12 +37,3 @@ projects: ["Homeserver"]
 #  image: theme-default.png
 
 ---
-
-**Create a free website with academia using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
-
-[Check out the latest **demo**](https://academia-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://sourcethemes.com/academic/#expo) of personal, project, and business sites.
-
-```
-
-```
-this should be some normal text
