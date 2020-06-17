@@ -44,4 +44,4 @@ hero_media = "PatrickFarnow_Square.JPG"
 +++
 ## My name is **Patrick Farnow** and I'm a **Consultant** interested in **all things tech** and working on **SAP FI/CO**
 
-If I'm not debugging some ABAP or working on implementing some new SAP process, I try to replace cloud-services with open-source software.
+When I'm not debugging some ABAP or working on implementing some new SAP process, I try to replace cloud-services I use with open-source software.
