@@ -1,7 +1,3 @@
-# Cold Showers - how I use them to ...
-
-## How cold showers help me to start of my day and calm down into a zen-like state of mind.
-
 - Matt D'avel video:https://www.youtube.com/watch?v=MsSBBPeNNDY
 
 - (German)article: https://www.primal-state.de/kalt-duschen/ 
@@ -18,7 +14,7 @@
 
 
 
-### Thoughts I share / "feel" (with? citation)
+### Thoughts I share (with? citation)
 
 - **Article:** 
   Dabei spielte Kälte eine sehr wichtige Rolle. Der menschliche Körper reagiert mit einer **erhöhten Wärmeproduktion** und einem **beschleunigten Stoffwechsel**.
@@ -29,8 +25,12 @@
 
 - **Article:** (*claiming*) up to 500 cals when using cold showers effectively 
 
+- 
+
   
 
 <!-- Possible Article that could be linked: -->
 <!-- -Link to an article about coffee and mention Matt.  -->
 <!-- -Link to an video from cyclist  about skatepunk2425  -->
+
+# Content
