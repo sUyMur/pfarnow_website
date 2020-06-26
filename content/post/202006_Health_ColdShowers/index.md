@@ -45,7 +45,7 @@ As we tumble into our daily routines we often start our days being stressed, lat
 
 Evidence suggests that cold showers strengthens our immune system, reduce inflammation and obviously energizes you right away.[^1] :muscle:
 
-After I saw the video by Matt D'Avella "[I took cold showers for 30 days](https://www.youtube.com/watch?v=MsSBBPeNNDY)" I thought this might not be for me. The video starts with him jumping straight into the shower: full-blown, kamikaze "I'm gonna do this now" mode. Just is doing it Shia LaBeouf style[^2] and getting over with it is not my kind of *style*. It's not a positive attitude towards cold showers, the benefits you gain and also creates a mental barrier of doing it.
+After I saw a video by Matt D'Avella: "[I took cold showers for 30 days](https://www.youtube.com/watch?v=MsSBBPeNNDY)" - I thought this might not be for me. The video starts with him jumping straight into the shower: full-blown, kamikaze "I'm gonna do this now" mode. Just is doing it Shia LaBeouf style[^2] and getting over with it is not my kind of *style*. It's not a positive attitude towards cold showers, the benefits you gain and also creates a mental barrier of doing it.
 
 Allen Carr, who wrote "Stop Smoking Now"[^3], explains that we are prone to fall victim to our own attitudes. Just thinking that a cold shower might not be desirable makes us believe that. He writes about the myth:
 
@@ -65,17 +65,19 @@ After having the right kind of mindset and motivation, I was about to start of m
 
 <!-- -Link to Article about atomic habits  -->
 
-This was also the point, where I understood that the coldest temperature *can* be quite nice. I coupled it with a *meditation*. This is obviously in lax terms, as I'm not standing there for 10 minutes under ice cold water. I lean into the shower and concentrate on my breathing and getting my heart rate to a (sub)resting level. This allows me to a) focus on myself for a minute, b) enjoy the freshness and c) to forget about the stress in the morning.
+This was also the point, where I understood that the coldest temperature *can* be quite nice. I coupled it with a *meditation*. This is obviously in lax terms, as I'm not standing there for 10 minutes under ice cold water. I lean into the shower and concentrate on my breathing and getting my heart rate to a (sub)resting level. This allows me to:
+
+- focus on myself for a minute, 
+
+- enjoy the freshness and
+
+- to forget about the stress in the morning.
 
 After a month or so, I realized, that I can also start my shower with cold water. Still not at a ice cold level, but rather fresh. I do this while showering normally and at the end, have my minute of ice-cold meditation.
 
 Overall, I'd say this helped me tremendously to enjoy getting out of bed and wanting to jump into the shower. My day starts of great, fresh and all calm.
 
-A quick note, this is a morning routine. Heating up your body (which happens after cold showers) is not recommendable before going to bed. As it will impact your sleep most likely in a bad way. Especially during summer, you should beware of the increase in body temperature after cold showers. 
-
-
-
-
+*A quick note, this is a morning routine. Heating up your body (which happens after cold showers) is not recommendable before going to bed. As it most likely will impact your sleep in a bad way. Especially during summer, you should beware of the increase in body temperature after cold showers. So maybe skip the cold shower before heading out to your next date.*
 
 [^1]: [Article: The Effect of Cold Showering on Health and Work: A Randomized Controlled Trial](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5025014/)
 [^2]: [YouTube: Shia LaBeouf: Just Do It!](https://www.youtube.com/watch?v=ZXsQAXx_ao0)
