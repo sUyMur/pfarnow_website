@@ -13,7 +13,7 @@ baseURL = "https://patrickfarnow.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
+copyright = "&copy; {year} Patrick Farnow "
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
@@ -32,7 +32,7 @@ theme = "Academia-hugo"
 enableGitInfo = false
 
 # Default language to use (if you setup multilingual support)
-defaultContentLanguage = "de-de"
+defaultContentLanguage = "en-us"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
